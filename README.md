@@ -1,0 +1,2 @@
+# Simrandeep_Kaur_069_GEN_AI_and_ML1
+enrolment_number=06901042025
